@@ -1,0 +1,32 @@
+main {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: #b8b8b8;
+}
+
+span {
+  font-weight: bold;
+}
+
+button {
+  padding: 15px;
+  border: 1px solid #00f;
+  background-color: #00f;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #fff;
+  color: #00f;
+  cursor: pointer;
+}
